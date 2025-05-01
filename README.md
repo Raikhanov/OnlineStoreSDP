@@ -150,6 +150,6 @@ In summary, the **Prototype** pattern is utilized in the copy constructors, whil
 
 
 
-![Screenshots](OnlineStoreSDP/OnlineStorePPT/ppt1.png)
+[![Screenshots](OnlineStoreSDP/OnlineStorePPT/ppt1.png)](https://github.com/Raikhanov/OnlineStoreSDP/blob/3f712398813c3e7627f264e6b9beb564e815cba8/OnlineStorePPT/ppt1.png)
 
 
