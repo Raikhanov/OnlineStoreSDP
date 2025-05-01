@@ -150,13 +150,21 @@ In summary, the **Prototype** pattern is utilized in the copy constructors, whil
 
 
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt1.png)
+
+
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt2.png)
+
+
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt3.png)
+
+
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt4.png)
+
+
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt5.png)
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt6.png)
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt7.png)
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt8.png)
 ![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt9.png)
-![Презентация](https://raw.githubusercontent.com/Raikhanov/OnlineStoreSDP/main/OnlineStorePPT/ppt10.png)
+
 
