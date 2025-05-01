@@ -147,3 +147,8 @@
      In this method, the `Iterator` is used to iterate over two lists of devices (`elDev` and `buyElDev`) and update the quantity of a product based on its `id`.
 
 In summary, the **Prototype** pattern is utilized in the copy constructors, while the **Iterator** pattern is used for processing lists of employees and devices throughout the code.
+
+
+
+
+
